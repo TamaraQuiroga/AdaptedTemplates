@@ -1,4 +1,4 @@
-arrFiles = ("1_templates.py" "2_counterfactuals.py" "3_train.py" "4.scores_classification.py" "5_bias_nuevo.ipynb" "utils.py")
+arrFiles=("1_templates.py" "2_counterfactuals.py" "3_train.py" "4.scores_classification.py" "5_bias_nuevo.ipynb" "utils.py")
 
 
 find . -mindepth 1 ° - name "script.sh" -exec rm -rf {} +
